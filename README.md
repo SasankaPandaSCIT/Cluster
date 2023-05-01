@@ -11,4 +11,4 @@ Our objective is to create a chatbot that can run a credit application to test c
 - Use Lambda to input data into chatbot 
 - Create presentation showcasing the model and the chatbot in use
 
-Random Undersampling and ClusterCentroid Undersampling results:
+
